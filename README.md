@@ -55,7 +55,8 @@ Copy code
   ├── App.css                   // Styling for the app
   └── index.js
   
-Future Improvements
+Future Improvements:   
+
 Add a backend to store services permanently.
 Include authentication for multiple users.
 Improve design with responsive layouts.
